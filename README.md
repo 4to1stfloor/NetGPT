@@ -93,7 +93,7 @@ will be added
 - [x] Provide the pretraining code for COF module
 
 
-## Developed at SDK Lab, National Cancer Center"
+## Developed at SDK Lab, National Cancer Center
 https://sites.google.com/view/sdklab/
 
 ## License
