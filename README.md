@@ -90,10 +90,11 @@ will be added
 - [x] Upload the preprocessed input data
 - [x] Upload the input data with clinical information
 - [x] Provide the pretraining code for GPT module
-- [ ] Provide the pretraining code for COF module
-- [ ] Examples for multi-omics integration, networkpropagation, perturbation prediction
-- [ ] Example code for predicting prognosis
-- [ ] Refactoring code
+- [x] Provide the pretraining code for COF module
+
+
+## Developed at SDK Lab, National Cancer Center"
+https://sites.google.com/view/sdklab/
 
 ## License
 
